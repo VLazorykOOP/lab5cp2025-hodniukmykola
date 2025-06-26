@@ -13,10 +13,10 @@ namespace WindowsFormsApp5
 
             // Запускаємо обидві форми одночасно
             Form1 form1 = new Form1();
-            KochForm kochForm = new KochForm();
+           
 
             form1.Show();
-            kochForm.Show();
+          
 
             // Запускаємо цикл обробки подій з form1,
             // щоб додаток не завершився поки відкриті форми

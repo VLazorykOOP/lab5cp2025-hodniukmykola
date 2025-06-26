@@ -7,3 +7,12 @@ C:\Users\38096\Source\Repos\lab5cp2025-kuzmaria\WindowsFormsApp5\obj\Release\Win
 C:\Users\38096\Source\Repos\lab5cp2025-kuzmaria\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.CoreCompileInputs.cache
 C:\Users\38096\Source\Repos\lab5cp2025-kuzmaria\WindowsFormsApp5\obj\Release\WindowsFormsApp5.exe
 C:\Users\38096\Source\Repos\lab5cp2025-kuzmaria\WindowsFormsApp5\obj\Release\WindowsFormsApp5.pdb
+C:\Users\38096\Source\Repos\lab5cp2025-hodniukmykola\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\38096\Source\Repos\lab5cp2025-hodniukmykola\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\38096\Source\Repos\lab5cp2025-hodniukmykola\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\38096\Source\Repos\lab5cp2025-hodniukmykola\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\38096\Source\Repos\lab5cp2025-hodniukmykola\WindowsFormsApp5\obj\Release\WindowsFormsApp5.exe
+C:\Users\38096\Source\Repos\lab5cp2025-hodniukmykola\WindowsFormsApp5\obj\Release\WindowsFormsApp5.pdb
+C:\Users\38096\Source\Repos\lab5cp2025-hodniukmykola\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe.config
+C:\Users\38096\Source\Repos\lab5cp2025-hodniukmykola\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe
+C:\Users\38096\Source\Repos\lab5cp2025-hodniukmykola\WindowsFormsApp5\bin\Release\WindowsFormsApp5.pdb
